@@ -16,6 +16,12 @@
 		<input type="submit" name="go">
 	</form>
 	<?
+	/*-------------------------------
+									#
+	script pour converter 			#
+	devise ougiya avec DH eh EUR DR #
+
+	*/###############################
 	//var
 	$var=$_POST['var'];
 	$valeur=$_POST['valeur'];
